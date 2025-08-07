@@ -1,30 +1,37 @@
-# 📊 Marketing Analytics
+# 📊 Marketing Analytics - Curso 2025
 
-Bienvenido/a a este repositorio de la clase de **Marketing Analytics**. Aquí encontrarás todos los materiales, proyectos, notebooks, datasets y recursos utilizados a lo largo del curso.
+Este repositorio contiene los materiales, análisis y proyectos desarrollados durante el curso de **Marketing Analytics**. El objetivo del curso es aplicar herramientas analíticas para tomar decisiones estratégicas basadas en datos dentro del contexto del marketing.
 
-## 📘 Descripción del curso
+## 🧠 Contenido del curso
 
-**Marketing Analytics** es una clase orientada a aplicar herramientas de análisis de datos para resolver problemas de marketing. El objetivo es tomar decisiones basadas en datos que mejoren el rendimiento comercial, comprendan el comportamiento del consumidor y optimicen las campañas de marketing.
-
-## 🧠 Temas clave
-
-- Introducción a la analítica en marketing
-- Segmentación de clientes
-- Análisis RFM
+- Introducción al análisis de datos en marketing
+- Segmentación de clientes y análisis RFM
 - Modelos de atribución de marketing
-- Marketing Mix Modeling
-- Analítica digital (web, redes sociales, campañas pagas)
-- Visualización de datos
-- Herramientas: Python, Excel, Power BI, Google Analytics, entre otros
-
-## 🛠 Herramientas y tecnologías
-
-- Python (Pandas, Matplotlib, Scikit-learn, etc.)
-- Jupyter Notebooks
-- Google Sheets / Excel
-- Google Analytics
-- SQL (básico)
-- Power BI / Tableau
+- Análisis de campañas publicitarias
+- Visualización de datos con Python y herramientas BI
+- Modelado predictivo (regresión, clasificación)
+- Análisis de sentimiento y redes sociales
 
 ## 📁 Estructura del repositorio
+
+
+## 🛠️ Herramientas utilizadas
+
+- Python (Pandas, Scikit-learn, Seaborn, Matplotlib)
+- Jupyter Notebooks
+- Power BI / Tableau
+- Google Analytics / Meta Ads (simulados)
+- Excel
+
+## 👨‍🏫 Docente
+
+Javier Andrés Bernal
+
+## 📌 Notas
+
+Este repositorio es parte del curso académico de *Marketing Analytics* y tiene fines educativos.
+
+---
+
+¿Quieres que adapte esto a un proyecto específico o con los nombres reales del curso y profesor/a?
 
